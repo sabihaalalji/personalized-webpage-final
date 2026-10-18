@@ -1,0 +1,15 @@
+body {
+    background-color: #2B1018;
+    color: #F3E8E8;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+.small-heading {color: #C99AA6; letter-spacing: 10px; color: #C99AA6;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 1.8;}
+button {background-color: #A65368; padding: 10px; border-radius: 16px; color: #FFFFFF;}
+h1 {font-family: Georgia, 'Times New Roman', Times, serif; font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 15px;}
