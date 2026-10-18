@@ -5,11 +5,11 @@ body {
     padding: 30px;
     margin: 0;
 }
-.small-heading {color: #C99AA6; letter-spacing: 10px; color: #C99AA6;
+.small-heading {color: #C99AA6; letter-spacing: 2px; ;
     font-size: 15px;
     letter-spacing: 1px;
     line-height: 1.8;}
-button {background-color: #A65368; padding: 10px; border-radius: 16px; color: #FFFFFF;}
+button {background-color: #A65368; padding: 10px; border-radius: 16px; color: #FFFFFF; cursor: pointer;}
 h1 {font-family: Georgia, 'Times New Roman', Times, serif; font-size: 48px;
     font-weight: normal;
     margin-bottom: 15px;}

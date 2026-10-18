@@ -10,16 +10,19 @@
     <p class="small-heading">YOUR PERSONAL SPACE</p>
     <h1>A world of my own.</h1>
     <p>A little space to explore who I am, one detail at a time.</p>
-    <form>
+    <form id="user-form">
       <p>
         <label for="name">What should I call you?</label
         ><input required id="name" type="text" placeholder="Enter your name..." />
       </p>
       <p>
-        <label for="name"> How old are you?</label>
-        <input min="1" required id="name" type="number" placeholder="Enter your age..." />
+        <label for="age"> How old are you?</label>
+        <input min="1" required id="age" type="number" placeholder="Enter your age..." />
       </p>
       <button>Enter my world</button>
     </form>
+    <p id="greeting"></p>
+    <p id="age-message"></p>
+    <script src="script.js"></script>
   </body>
 </html>
